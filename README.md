@@ -13,3 +13,15 @@ IT Undergraduate | Aspiring Software Engineer
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Banuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Banuja-Vijayarajan&show_icons=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
