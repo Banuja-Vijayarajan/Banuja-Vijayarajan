@@ -44,13 +44,17 @@ Git • GitHub • VS Code • Figma
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://banuja-vijayarajan.github.io/">
+<a href="https://banuja-vijayarajan.github.io">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome"/>
 </a>
 
