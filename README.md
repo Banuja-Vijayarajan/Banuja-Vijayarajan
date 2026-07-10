@@ -1,7 +1,37 @@
-# Hi, I'm Banuja 👋
+<h1 align="center">Hi 👋, I'm Banuja Vijayarajan</h1>
 
-IT Undergraduate | Aspiring Software Engineer
+<h3 align="center">IT Undergraduate | Aspiring Software Engineer | Full Stack Developer</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=IT+Undergraduate;Full+Stack+Developer;React+%7C+Node.js+Learner;Building+Projects+with+Passion" />
+</p>
+
+## 👩‍💻 About Me
+
+- 🎓 IT Undergraduate
+- 💻 Passionate about Software Engineering and Web Development
+- 🌱 Currently learning Full Stack Development
+- 🚀 Building projects using React, Node.js and Firebase
+- 🧠 Interested in Algorithms, Cloud Computing and System Design
+- ⚡ IEEE Student Volunteer
+
+## 🛠️ Technologies I Work With
+
+### Languages
+Java • C# • JavaScript • SQL
+
+### Frontend
+React • HTML • CSS • Material UI
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • MariaDB • Firebase
+
+### Tools
+Git • GitHub • VS Code • Figma
+  
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -13,6 +43,16 @@ IT Undergraduate | Aspiring Software Engineer
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://banuja-vijayarajan.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome"/>
+</a>
 
 ## 📊 GitHub Stats
 
