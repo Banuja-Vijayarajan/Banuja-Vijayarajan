@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Banuja Vijayarajan</h1>
+<h1 align="center">Hi, I'm Banuja Vijayarajan</h1>
 
 <h3 align="center">IT Undergraduate | Aspiring Software Engineer | Full Stack Developer</h3>
 
