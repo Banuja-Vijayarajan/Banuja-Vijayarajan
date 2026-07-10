@@ -16,11 +16,11 @@ IT Undergraduate | Aspiring Software Engineer
 
 ## 📊 GitHub Stats
 
-![Banuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Banuja-Vijayarajan&show_icons=true)
+![Banuja's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Banuja-Vijayarajan&show_icons=true)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Banuja-Vijayarajan&layout=compact)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Banuja-Vijayarajan&layout=compact)
 
 ## 🔥 GitHub Streak
 
